@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PartsUnlimitedWebAdaptors
-build_property.ProjectDir = C:\Users\logesh.s\Automation-PartsUnlimited\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedWebAdaptors\
+build_property.ProjectDir = C:\Users\saritha.pathuri\PartsUnlimitedTests\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedWebAdaptors\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

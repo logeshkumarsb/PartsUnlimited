@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\logesh.s\\.nuget\\packages\\": {}
+    "C:\\Users\\saritha.pathuri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logesh.s\\Automation-PartsUnlimited\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedWebAdaptors\\PartsUnlimitedWebAdaptors.csproj",
+      "projectUniqueName": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedWebAdaptors\\PartsUnlimitedWebAdaptors.csproj",
       "projectName": "PartsUnlimitedWebAdaptors",
-      "projectPath": "C:\\Users\\logesh.s\\Automation-PartsUnlimited\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedWebAdaptors\\PartsUnlimitedWebAdaptors.csproj",
-      "packagesPath": "C:\\Users\\logesh.s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\logesh.s\\Automation-PartsUnlimited\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedWebAdaptors\\obj\\",
+      "projectPath": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedWebAdaptors\\PartsUnlimitedWebAdaptors.csproj",
+      "packagesPath": "C:\\Users\\saritha.pathuri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedWebAdaptors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\logesh.s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\saritha.pathuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

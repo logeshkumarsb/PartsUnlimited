@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\logesh.s\\Automation-PartsUnlimited\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedScenarios\\PartsUnlimitedScenarios.csproj": {}
+    "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedScenarios\\PartsUnlimitedScenarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\logesh.s\\Automation-PartsUnlimited\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedScenarios\\PartsUnlimitedScenarios.csproj": {
+    "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedScenarios\\PartsUnlimitedScenarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\logesh.s\\Automation-PartsUnlimited\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedScenarios\\PartsUnlimitedScenarios.csproj",
+        "projectUniqueName": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedScenarios\\PartsUnlimitedScenarios.csproj",
         "projectName": "PartsUnlimitedScenarios",
-        "projectPath": "C:\\Users\\logesh.s\\Automation-PartsUnlimited\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedScenarios\\PartsUnlimitedScenarios.csproj",
-        "packagesPath": "C:\\Users\\logesh.s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\logesh.s\\Automation-PartsUnlimited\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedScenarios\\obj\\",
+        "projectPath": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedScenarios\\PartsUnlimitedScenarios.csproj",
+        "packagesPath": "C:\\Users\\saritha.pathuri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedScenarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\logesh.s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saritha.pathuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
