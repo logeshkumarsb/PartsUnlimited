@@ -5,5 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+		<ProjectReference Include="C:\Users\logesh.s\Automation-PartsUnlimited\PartsUnlimited\Capstone-project\PartsUnlimited\PartsUnlimitedWeb\PartsUnlimitedOperations\PartsUnlimitedOperations.csproj"/>
+  </ItemGroup>
 
 </Project>
