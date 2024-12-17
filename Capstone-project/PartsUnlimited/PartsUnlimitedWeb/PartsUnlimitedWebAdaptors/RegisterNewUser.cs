@@ -13,6 +13,8 @@ namespace PartsUnlimitedWebAdaptors
     /// </summary>
     public class RegisterNewUser : PartsUnlimitedCommon, IRegisterNewUser
     {
+        public RegisterNewUser() : base(){}
+        public RegisterNewUser(IWebDriver driver) : base(driver) { }
         /// <summary>
         /// Creates a new user account by navigating to the registration page and filling out the required fields.
         /// </summary>
