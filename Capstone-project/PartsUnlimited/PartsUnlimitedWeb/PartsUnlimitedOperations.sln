@@ -3,11 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartsUnlimitedOperations", "PartsUnlimitedOperations\PartsUnlimitedOperations.csproj", "{0CD8F385-4A79-422C-BED6-642F2368A8DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartsUnlimitedOperations", "PartsUnlimitedOperations\PartsUnlimitedOperations.csproj", "{0CD8F385-4A79-422C-BED6-642F2368A8DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartsUnlimitedWebAdaptors", "PartsUnlimitedWebAdaptors\PartsUnlimitedWebAdaptors.csproj", "{C984DE77-84F0-48AC-AF7A-3CCD3ACCD952}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartsUnlimitedWebAdaptors", "PartsUnlimitedWebAdaptors\PartsUnlimitedWebAdaptors.csproj", "{C984DE77-84F0-48AC-AF7A-3CCD3ACCD952}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0CD8F385-4A79-422C-BED6-642F2368A8DA} = {0CD8F385-4A79-422C-BED6-642F2368A8DA}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartsUnlimitedScenarios", "PartsUnlimitedScenarios\PartsUnlimitedScenarios.csproj", "{FB739F8E-9EA2-4A88-A146-13649E6B41FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartsUnlimitedScenarios", "PartsUnlimitedScenarios\PartsUnlimitedScenarios.csproj", "{FB739F8E-9EA2-4A88-A146-13649E6B41FE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0CD8F385-4A79-422C-BED6-642F2368A8DA} = {0CD8F385-4A79-422C-BED6-642F2368A8DA}
+		{C984DE77-84F0-48AC-AF7A-3CCD3ACCD952} = {C984DE77-84F0-48AC-AF7A-3CCD3ACCD952}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

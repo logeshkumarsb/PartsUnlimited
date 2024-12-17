@@ -5,8 +5,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
   <ItemGroup>
-		<ProjectReference Include="C:\Users\logesh.s\Automation-PartsUnlimited\PartsUnlimited\Capstone-project\PartsUnlimited\PartsUnlimitedWeb\PartsUnlimitedOperations\PartsUnlimitedOperations.csproj"/>
+    <PackageReference Include="Selenium.WebDriver" Version="4.27.0" />
+  </ItemGroup>
+  <ItemGroup>
+		<ProjectReference Include="C:\Users\logesh.s\Automation-PartsUnlimited\PartsUnlimited\Capstone-project\PartsUnlimited\PartsUnlimitedWeb\PartsUnlimitedOperations\PartsUnlimitedOperations.csproj" />
   </ItemGroup>
 
 </Project>

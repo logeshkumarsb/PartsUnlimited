@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -19,6 +19,8 @@
 
   <ItemGroup>
     <Using Include="NUnit.Framework" />
+	  <ProjectReference Include="C:\Users\logesh.s\Automation-PartsUnlimited\PartsUnlimited\Capstone-project\PartsUnlimited\PartsUnlimitedWeb\PartsUnlimitedOperations\PartsUnlimitedOperations.csproj"/>
+	  <ProjectReference Include="C:\Users\logesh.s\Automation-PartsUnlimited\PartsUnlimited\Capstone-project\PartsUnlimited\PartsUnlimitedWeb\PartsUnlimitedWebAdaptors\PartsUnlimitedWebAdaptors.csproj"/>
   </ItemGroup>
 
 </Project>
