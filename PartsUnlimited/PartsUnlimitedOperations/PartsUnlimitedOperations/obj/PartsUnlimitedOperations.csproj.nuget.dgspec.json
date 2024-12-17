@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedOperations\\PartsUnlimitedOperations.csproj": {}
+    "C:\\Users\\saritha.pathuri\\PartsUnlimitedTest1\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedOperations\\PartsUnlimitedOperations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedOperations\\PartsUnlimitedOperations.csproj": {
+    "C:\\Users\\saritha.pathuri\\PartsUnlimitedTest1\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedOperations\\PartsUnlimitedOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedOperations\\PartsUnlimitedOperations.csproj",
+        "projectUniqueName": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTest1\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedOperations\\PartsUnlimitedOperations.csproj",
         "projectName": "PartsUnlimitedOperations",
-        "projectPath": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedOperations\\PartsUnlimitedOperations.csproj",
+        "projectPath": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTest1\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedOperations\\PartsUnlimitedOperations.csproj",
         "packagesPath": "C:\\Users\\saritha.pathuri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTests\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedOperations\\obj\\",
+        "outputPath": "C:\\Users\\saritha.pathuri\\PartsUnlimitedTest1\\PartsUnlimited\\PartsUnlimited\\PartsUnlimitedOperations\\PartsUnlimitedOperations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saritha.pathuri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "OpenQA.Selenium.Winium": {
+              "target": "Package",
+              "version": "[1.0.0.4, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[131.0.6778.10800, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

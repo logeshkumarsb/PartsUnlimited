@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PartsUnlimitedWebAdaptors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd9210d5e23f6e1c353b00ca97862d5a1066b88d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63542a5afa266f2ccb17f71fd17560a4ee0e40db")]
 [assembly: System.Reflection.AssemblyProductAttribute("PartsUnlimitedWebAdaptors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PartsUnlimitedWebAdaptors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
