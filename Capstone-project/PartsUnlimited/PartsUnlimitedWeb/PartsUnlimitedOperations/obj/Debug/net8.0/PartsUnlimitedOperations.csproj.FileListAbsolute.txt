@@ -1,0 +1,13 @@
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\bin\Debug\net8.0\PartsUnlimitedOperations.deps.json
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\bin\Debug\net8.0\PartsUnlimitedOperations.dll
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\bin\Debug\net8.0\PartsUnlimitedOperations.pdb
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\obj\Debug\net8.0\PartsUnlimitedOperations.csproj.AssemblyReference.cache
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\obj\Debug\net8.0\PartsUnlimitedOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\obj\Debug\net8.0\PartsUnlimitedOperations.AssemblyInfoInputs.cache
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\obj\Debug\net8.0\PartsUnlimitedOperations.AssemblyInfo.cs
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\obj\Debug\net8.0\PartsUnlimitedOperations.csproj.CoreCompileInputs.cache
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\obj\Debug\net8.0\PartsUnlimitedOperations.sourcelink.json
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\obj\Debug\net8.0\PartsUnlimitedOperations.dll
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\obj\Debug\net8.0\refint\PartsUnlimitedOperations.dll
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\obj\Debug\net8.0\PartsUnlimitedOperations.pdb
+C:\Users\saritha.pathuri\PartsUnlimitedTest1\PartsUnlimited\PartsUnlimited\PartsUnlimitedOperations\PartsUnlimitedOperations\obj\Debug\net8.0\ref\PartsUnlimitedOperations.dll
